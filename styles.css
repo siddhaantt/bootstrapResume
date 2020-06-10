@@ -1,0 +1,143 @@
+
+.navbar-brand{
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+.nav-item
+{
+  font-weight: bold;
+padding:5px;
+}
+
+#section1
+{
+  background-color:#481380;
+  height: 800px;
+}
+
+.intro
+{
+  text-align: center;
+  color: white;
+  margin: 200px auto 0 auto;
+}
+.column {
+  float: left;
+  width: 50%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.dropdown
+{
+  text-align: center;
+  margin-top: 20px;
+}
+.img
+{
+  float: left;
+  margin-left: 360px;
+  margin-top: 50px;
+
+}
+.about
+{
+  margin-top: 50px;
+  text-align: center;
+}
+
+.para1{
+  text-align: justify;
+  margin : 50px auto auto 500px;
+  font-size: 20px;
+  line-height: 2;
+}
+
+.resume
+{
+  text-align: center;
+}
+li{
+  list-style-type: none;
+}
+.contact
+{
+  text-align: center;
+  margin-top: 0;
+  background-color: #481380;
+  padding-top: 20px;
+  line-height: 2;
+}
+input{
+  width: 50%;
+  padding: 15px;
+  margin: 10px;
+  font-family: 'Poppins', sans-serif;
+}
+textarea{
+width: 50%;
+  padding:15px;
+  border:none;
+  margin:5px;
+  font-family: 'Poppins', sans-serif;
+}
+input[type=submit]{
+  cursor: pointer;
+  text-decoration: none;
+  border: none;
+}
+
+ul{
+  list-style-type: none;
+  margin-right: 50px;
+  text-align: center;
+}
+
+span{
+  color: #888888;
+}
+.Resume{
+  margin: auto;
+}
+
+.copyright{
+  text-align: right;
+  font-size: 10px;
+  font-weight: bolder;
+  padding: 20px;
+  margin:20px 20px auto auto;
+  color: white;
+}
+
+hr{
+    border-style: dotted;
+    border-bottom: 0;
+    width: 5%;
+    border-color: grey;
+    border-width: 5px;
+    margin: 50px auto;
+}
+.cnt
+{
+  color: white;
+  padding-bottom: 10px;
+}
+
+.profile{
+  float: left;
+  margin-left: 20px;
+  height: 500px;
+  width: 50%;
+}
+.skills{
+margin-right: 20px;
+}
+.resume-para
+{
+  margin: 10px;
+  padding: 20px;
+}
